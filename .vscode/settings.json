@@ -1,3 +1,4 @@
 {
-  "cmake.sourceDirectory": "D:/FlutterProjects/counter_app_with_bloc/linux"
+  "cmake.sourceDirectory": "D:/FlutterProjects/duff_talk/linux",
+  "dart.flutterSdkPath": ".fvm/versions/3.22.3"
 }

@@ -1,4 +1,4 @@
-package com.example.counter_app_with_bloc
+package com.example.duff_talk
 
 import io.flutter.embedding.android.FlutterActivity
 
